@@ -1,16 +1,44 @@
-## Hi there 👋
+# Geovana Lemos
 
-<!--
-**geovanamlf/geovanamlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend | Python | Java | SQL  
+Aracaju - SE, Brasil  
 
-Here are some ideas to get you started:
+[🇧🇷 Português] | [🇺🇸 English]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+Desenvolvedora com foco em backend, atuando principalmente com Python e construção de APIs.
+
+Interesse em arquitetura bem estruturada, organização de código em camadas, persistência de dados e desenvolvimento de sistemas consistentes e escaláveis.
+
+Experiência prática com criação de aplicações backend, integração de ferramentas via linha de comando e execução local de modelos de linguagem.
+
+---
+
+## Stack
+
+Linguagens:
+- Python (principal)
+- Java
+- Ruby
+- SQL
+
+Backend:
+- FastAPI
+- SQLite
+- PostgreSQL
+
+---
+
+## Ferramentas
+
+- Git & GitHub
+- Linux
+- IntelliJ
+- VS Code
+- Streamlit
+- Ollama (LLM local)
+- Desenvolvimento orientado a CLI
+- Organização de projetos em arquitetura modular
