@@ -3,7 +3,7 @@
 Desenvolvedora Backend | Python | Java | SQL  
 Aracaju - SE, Brasil  
 
-[🇧🇷 Português] | [🇺🇸 English]()
+[🇧🇷 Português] | [🇺🇸 English](./README.en.md)
 
 ## Sobre
 
@@ -31,6 +31,11 @@ Busco consolidar minha base em backend, aprofundando práticas de organização,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Idiomas
+![Português](https://img.shields.io/badge/Português-Nativo-333333?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-333333?style=for-the-badge)
+
 
 ## Contato
 
