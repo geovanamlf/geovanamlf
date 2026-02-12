@@ -33,9 +33,9 @@ Busco consolidar minha base em backend, aprofundando práticas de organização,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Idiomas
-![Português](https://img.shields.io/badge/Português-Nativo-333333?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-333333?style=for-the-badge)
 
+![Português](https://img.shields.io/badge/Português-Nativo-009C3B?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-1F75FE?style=for-the-badge)
 
 ## Contato
 
