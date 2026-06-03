@@ -1,4 +1,4 @@
-# Geovana Lemos ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# Geovana Lemos ![Tux](https://img.shields.io/badge/-FCC624?style=flat&logo=linux&logoColor=black)
 
 Backend Developer | Computer Science Student
 
